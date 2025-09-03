@@ -78,7 +78,7 @@ The models were compared using accuracy and classification metrics.
 **Omar Nouh Taha**
 
 * Data Scientist || Machine Learning Engineer
-* [LinkedIn](www.linkedin.com/in/omar-nouh-taha)
+* [LinkedIn](https://www.linkedin.com/in/omar-nouh-taha)
 
 ---
 
